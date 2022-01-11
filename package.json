@@ -19,5 +19,8 @@
   "devDependencies": {
     "jest": "^27.4.7",
     "npm": "^8.3.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
